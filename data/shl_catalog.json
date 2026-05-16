@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+    "description": "Measures Java programming knowledge and coding ability.",
+    "test_type": "Knowledge"
+  },
+  {
+    "name": "OPQ32r",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq32r/",
+    "description": "Measures workplace personality and behavioral preferences.",
+    "test_type": "Personality"
+  },
+  {
+    "name": "General Ability Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/general-ability-test/",
+    "description": "Measures reasoning and cognitive ability.",
+    "test_type": "Ability"
+  },
+  {
+    "name": "Core Java Entry Level",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level/",
+    "description": "Entry-level Java assessment.",
+    "test_type": "Technical"
+  }
+]
